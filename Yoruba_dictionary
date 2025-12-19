@@ -1,0 +1,22 @@
+yoruba = {
+    "hello": "báwo",
+    "goodbye": "ódàbọ̀",
+    "food": "oúnjẹ",
+    "water": "ọmi",
+    "house": "ilé",
+    "school": "ilé-ẹ̀kọ́",
+    "book": "ìwé",
+    "money": "owó",
+    "friend": "ọrẹ́",
+    "love": "ìfẹ́",
+    "mother": "ìyá",
+    "father": "bàbá",
+    "child": "ọmọ",
+    "work": "iṣẹ́",
+    "day": "ọjọ́",
+    "night": "ọru",
+    "sun": "ọ̀rùn",
+    "rain": "ọ̀jò",
+    "road": "ọ̀nà",
+    "good": "dárà"
+}
